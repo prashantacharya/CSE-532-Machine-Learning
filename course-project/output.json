@@ -1,0 +1,437 @@
+[
+    {
+        "algorithm": "LogisticRegression",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.42396187882913544,
+                "precision": 0.42047817806857263,
+                "f1_score": 0.401622781260607,
+                "recall_score": 0.41226071937400655
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.41922345913657344,
+                "precision": 0.44050032386698024,
+                "f1_score": 0.40967965101489323,
+                "recall_score": 0.41659175283233124
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.4346060113728676,
+                "precision": 0.4476299500032407,
+                "f1_score": 0.4252802563959834,
+                "recall_score": 0.4290840599574533
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.43844492440604754,
+                "precision": 0.46283326479492326,
+                "f1_score": 0.4264033577847743,
+                "recall_score": 0.4280027756709098
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.4383838383838384,
+                "precision": 0.44129030503393624,
+                "f1_score": 0.42202138195429323,
+                "recall_score": 0.4349611794252095
+            }
+        ]
+    },
+    {
+        "algorithm": "DecisionTreeClassifier",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.4157930565010211,
+                "precision": 0.3961468952354379,
+                "f1_score": 0.3660533635449512,
+                "recall_score": 0.4067169587887655
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.4270974748846049,
+                "precision": 0.42985348353023106,
+                "f1_score": 0.3781270885837888,
+                "recall_score": 0.42026007237438345
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.43826157595450854,
+                "precision": 0.44521390490692664,
+                "f1_score": 0.39703488424872574,
+                "recall_score": 0.4265978776488403
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.4400647948164147,
+                "precision": 0.43613582618268854,
+                "f1_score": 0.3936712843458931,
+                "recall_score": 0.4171843857529961
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.4734006734006734,
+                "precision": 0.4573637565694791,
+                "f1_score": 0.4258439080527626,
+                "recall_score": 0.4633338795297559
+            }
+        ]
+    },
+    {
+        "algorithm": "RandomForestClassifier",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.8183798502382573,
+                "precision": 0.8169757017384732,
+                "f1_score": 0.8100983159339668,
+                "recall_score": 0.8091634592685303
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.8259571001900624,
+                "precision": 0.8280500587906179,
+                "f1_score": 0.8217680224319058,
+                "recall_score": 0.820999839229636
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.838748984565394,
+                "precision": 0.8387837644644031,
+                "f1_score": 0.8335830935528374,
+                "recall_score": 0.8313706036249803
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.8336933045356372,
+                "precision": 0.8329544536414812,
+                "f1_score": 0.8278547526459662,
+                "recall_score": 0.8262166829272612
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.8430976430976431,
+                "precision": 0.8425091678422217,
+                "f1_score": 0.8388178744083652,
+                "recall_score": 0.837902255994947
+            }
+        ]
+    },
+    {
+        "algorithm": "SVC",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.4893124574540504,
+                "precision": 0.5337113332113355,
+                "f1_score": 0.46210741560285556,
+                "recall_score": 0.47355152180437404
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.4833016562584849,
+                "precision": 0.5455315063273193,
+                "f1_score": 0.46850618668025495,
+                "recall_score": 0.4806186176230502
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.48578391551584077,
+                "precision": 0.5588467992392718,
+                "f1_score": 0.47096939053205494,
+                "recall_score": 0.476164524026202
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.4789416846652268,
+                "precision": 0.5272813581180716,
+                "f1_score": 0.4604262889434102,
+                "recall_score": 0.46769480060984664
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.4734006734006734,
+                "precision": 0.5201435907618056,
+                "f1_score": 0.4557141624603081,
+                "recall_score": 0.4683085405422709
+            }
+        ]
+    },
+    {
+        "algorithm": "GaussianNB",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.33356024506466986,
+                "precision": 0.33507917428053374,
+                "f1_score": 0.299945403950775,
+                "recall_score": 0.3271286799571434
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.33016562584849307,
+                "precision": 0.37522149929159826,
+                "f1_score": 0.3145249457568287,
+                "recall_score": 0.3327537767206723
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.335093419983753,
+                "precision": 0.3882908057509773,
+                "f1_score": 0.32590835521594214,
+                "recall_score": 0.3403627762103839
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.34719222462203025,
+                "precision": 0.39858741306818785,
+                "f1_score": 0.32854084201467576,
+                "recall_score": 0.3383484285495345
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.3367003367003367,
+                "precision": 0.3999539861664056,
+                "f1_score": 0.3272048074843308,
+                "recall_score": 0.34009945004069064
+            }
+        ]
+    },
+    {
+        "algorithm": "KNeighborsClassifier",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.7257998638529612,
+                "precision": 0.7242067013725346,
+                "f1_score": 0.71716518888342,
+                "recall_score": 0.7185555696195433
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.7181645397773554,
+                "precision": 0.7184270747225522,
+                "f1_score": 0.7133891200687837,
+                "recall_score": 0.715999858514118
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.7136474411047928,
+                "precision": 0.7080458067771469,
+                "f1_score": 0.704675737900267,
+                "recall_score": 0.706348632892544
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.7073434125269978,
+                "precision": 0.7078440903265667,
+                "f1_score": 0.7014501766811445,
+                "recall_score": 0.7025817515915537
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.7117845117845117,
+                "precision": 0.715102049009135,
+                "f1_score": 0.7090464082478481,
+                "recall_score": 0.7105185914175001
+            }
+        ]
+    },
+    {
+        "algorithm": "AdaBoostClassifier",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.34758339006126615,
+                "precision": 0.2945739504209159,
+                "f1_score": 0.28609911501317814,
+                "recall_score": 0.32322111431643324
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.2777626934564214,
+                "precision": 0.3052671684490424,
+                "f1_score": 0.23322926860444743,
+                "recall_score": 0.26548488629873757
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.28107229894394803,
+                "precision": 0.26338666808185673,
+                "f1_score": 0.23051255630465028,
+                "recall_score": 0.26017435251616544
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.23704103671706264,
+                "precision": 0.16552623155857746,
+                "f1_score": 0.16789487599535236,
+                "recall_score": 0.22666942222129766
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.26936026936026936,
+                "precision": 0.19498101555768474,
+                "f1_score": 0.20399081669334446,
+                "recall_score": 0.25514781738189735
+            }
+        ]
+    },
+    {
+        "algorithm": "GradientBoostingClassifier",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.7417290673927842,
+                "precision": 0.7363616801713418,
+                "f1_score": 0.7307494480542877,
+                "recall_score": 0.7314146116234803
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.7664947054032039,
+                "precision": 0.7657759243314246,
+                "f1_score": 0.7617186902094669,
+                "recall_score": 0.7618773672454686
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.7802599512591389,
+                "precision": 0.7754324203024848,
+                "f1_score": 0.7724640600824194,
+                "recall_score": 0.7710754199284697
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.7818574514038877,
+                "precision": 0.7786754946723472,
+                "f1_score": 0.7747413923718866,
+                "recall_score": 0.773806939174359
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.8013468013468014,
+                "precision": 0.7984127445816974,
+                "f1_score": 0.7955991866812389,
+                "recall_score": 0.7949903132738547
+            }
+        ]
+    },
+    {
+        "algorithm": "XGBClassifier",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.6887678692988427,
+                "precision": 0.6861091475560914,
+                "f1_score": 0.6732300051666685,
+                "recall_score": 0.6775500136019608
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.7159923975020364,
+                "precision": 0.7184935362450948,
+                "f1_score": 0.7084631644353869,
+                "recall_score": 0.7110557075352782
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.7335499593826158,
+                "precision": 0.7315562415150207,
+                "f1_score": 0.7247711258733005,
+                "recall_score": 0.7242210968265692
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.740280777537797,
+                "precision": 0.7425207189322992,
+                "f1_score": 0.7327455926707337,
+                "recall_score": 0.7311302511807669
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.7569023569023569,
+                "precision": 0.7561156777636734,
+                "f1_score": 0.7508475363421392,
+                "recall_score": 0.7516760809873374
+            }
+        ]
+    },
+    {
+        "algorithm": "MLPClassifier",
+        "results": [
+            {
+                "window_size": 100,
+                "accuracy": 0.7253914227365554,
+                "precision": 0.7203229845020502,
+                "f1_score": 0.7161892970386828,
+                "recall_score": 0.7167726400668906
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.7320119467825142,
+                "precision": 0.7316352105603557,
+                "f1_score": 0.7283910168708003,
+                "recall_score": 0.7282649121747075
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.7404549147034931,
+                "precision": 0.7403426338313215,
+                "f1_score": 0.7351961230241761,
+                "recall_score": 0.7339524593747571
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.7294816414686826,
+                "precision": 0.7262401519247679,
+                "f1_score": 0.7218627787812824,
+                "recall_score": 0.7234027004898053
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.7494949494949495,
+                "precision": 0.7434514810729741,
+                "f1_score": 0.7416176515010905,
+                "recall_score": 0.7447386603084059
+            },
+            {
+                "window_size": 100,
+                "accuracy": 0.7225323349217154,
+                "precision": 0.7205783740414644,
+                "f1_score": 0.7130062300934281,
+                "recall_score": 0.7134481053321561
+            },
+            {
+                "window_size": 200,
+                "accuracy": 0.7241379310344828,
+                "precision": 0.7230290501171068,
+                "f1_score": 0.7171437444030067,
+                "recall_score": 0.7177800179503839
+            },
+            {
+                "window_size": 300,
+                "accuracy": 0.735174654752234,
+                "precision": 0.7330945937123787,
+                "f1_score": 0.7298072427352265,
+                "recall_score": 0.7295067702029209
+            },
+            {
+                "window_size": 400,
+                "accuracy": 0.7230021598272138,
+                "precision": 0.7214571437207993,
+                "f1_score": 0.7174041967177516,
+                "recall_score": 0.7178113367413078
+            },
+            {
+                "window_size": 500,
+                "accuracy": 0.7548821548821549,
+                "precision": 0.751159873775539,
+                "f1_score": 0.7498503971120871,
+                "recall_score": 0.7517941036390824
+            }
+        ]
+    }
+]

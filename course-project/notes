@@ -25,3 +25,10 @@ console.log(s)
 
 Find this element: -webkit-print-color-adjust: exact;
 Set print-color-adjust: exact;
+
+
+
+# TODO:
+1. Export the Notebook HTML to PDF
+2. Write report with screenshots
+3. Show the visualization in the report

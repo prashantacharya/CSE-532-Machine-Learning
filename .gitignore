@@ -2,3 +2,7 @@
 dataset
 *.pdf
 *.html
+!precision.html
+!recall.html
+!f1_score.html
+!accuracy.html

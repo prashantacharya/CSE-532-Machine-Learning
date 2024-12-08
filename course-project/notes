@@ -1,0 +1,27 @@
+For this class:
+.cm-editor.cm-s-jupyter .highlight pre
+set text-wrap: wrap;
+
+For * selector:
+set font-family: 'FiraCode Nerd Font';
+
+
+set the following variable to:
+--jp-cell-padding: 0px;
+
+
+For @media print:
+set padding of the document to 0
+
+
+Use this code to extract output logs:
+
+s = ''
+
+document.querySelectorAll('.jp-OutputArea-output').forEach(node => s = s + node.innerText)
+
+console.log(s)
+
+
+Find this element: -webkit-print-color-adjust: exact;
+Set print-color-adjust: exact;

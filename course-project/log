@@ -1,0 +1,667 @@
+Training LogisticRegression for window size: 100
+Accuracy: 0.42396187882913544
+Precision: 0.42047817806857263
+Recall: 0.41226071937400655
+F1 Score: 0.401622781260607
+==================================================
+Training LogisticRegression for window size: 200
+Accuracy: 0.41922345913657344
+Precision: 0.44050032386698024
+Recall: 0.41659175283233124
+F1 Score: 0.40967965101489323
+==================================================
+Training LogisticRegression for window size: 300
+Accuracy: 0.4346060113728676
+Precision: 0.4476299500032407
+Recall: 0.4290840599574533
+F1 Score: 0.4252802563959834
+==================================================
+Training LogisticRegression for window size: 400
+Accuracy: 0.43844492440604754
+Precision: 0.46283326479492326
+Recall: 0.4280027756709098
+F1 Score: 0.4264033577847743
+==================================================
+Training LogisticRegression for window size: 500
+Accuracy: 0.4383838383838384
+Precision: 0.44129030503393624
+Recall: 0.4349611794252095
+F1 Score: 0.42202138195429323
+==================================================
+Training DecisionTreeClassifier for window size: 100
+Accuracy: 0.4157930565010211
+Precision: 0.3961468952354379
+Recall: 0.4067169587887655
+F1 Score: 0.3660533635449512
+==================================================
+Training DecisionTreeClassifier for window size: 200
+Accuracy: 0.4270974748846049
+Precision: 0.42985348353023106
+Recall: 0.42026007237438345
+F1 Score: 0.3781270885837888
+==================================================
+Training DecisionTreeClassifier for window size: 300
+Accuracy: 0.43826157595450854
+Precision: 0.44521390490692664
+Recall: 0.4265978776488403
+F1 Score: 0.39703488424872574
+==================================================
+Training DecisionTreeClassifier for window size: 400
+Accuracy: 0.4400647948164147
+Precision: 0.43613582618268854
+Recall: 0.4171843857529961
+F1 Score: 0.3936712843458931
+==================================================
+Training DecisionTreeClassifier for window size: 500
+Accuracy: 0.4734006734006734
+Precision: 0.4573637565694791
+Recall: 0.4633338795297559
+F1 Score: 0.4258439080527626
+==================================================
+Training RandomForestClassifier for window size: 100
+Accuracy: 0.8183798502382573
+Precision: 0.8169757017384732
+Recall: 0.8091634592685303
+F1 Score: 0.8100983159339668
+==================================================
+Training RandomForestClassifier for window size: 200
+Accuracy: 0.8259571001900624
+Precision: 0.8280500587906179
+Recall: 0.820999839229636
+F1 Score: 0.8217680224319058
+==================================================
+Training RandomForestClassifier for window size: 300
+Accuracy: 0.838748984565394
+Precision: 0.8387837644644031
+Recall: 0.8313706036249803
+F1 Score: 0.8335830935528374
+==================================================
+Training RandomForestClassifier for window size: 400
+Accuracy: 0.8336933045356372
+Precision: 0.8329544536414812
+Recall: 0.8262166829272612
+F1 Score: 0.8278547526459662
+==================================================
+Training RandomForestClassifier for window size: 500
+Accuracy: 0.8430976430976431
+Precision: 0.8425091678422217
+Recall: 0.837902255994947
+F1 Score: 0.8388178744083652
+==================================================
+Training SVC for window size: 100
+Accuracy: 0.4893124574540504
+Precision: 0.5337113332113355
+Recall: 0.47355152180437404
+F1 Score: 0.46210741560285556
+==================================================
+Training SVC for window size: 200
+Accuracy: 0.4833016562584849
+Precision: 0.5455315063273193
+Recall: 0.4806186176230502
+F1 Score: 0.46850618668025495
+==================================================
+Training SVC for window size: 300
+Accuracy: 0.48578391551584077
+Precision: 0.5588467992392718
+Recall: 0.476164524026202
+F1 Score: 0.47096939053205494
+==================================================
+Training SVC for window size: 400
+Accuracy: 0.4789416846652268
+Precision: 0.5272813581180716
+Recall: 0.46769480060984664
+F1 Score: 0.4604262889434102
+==================================================
+Training SVC for window size: 500
+Accuracy: 0.4734006734006734
+Precision: 0.5201435907618056
+Recall: 0.4683085405422709
+F1 Score: 0.4557141624603081
+==================================================
+Training GaussianNB for window size: 100
+Accuracy: 0.33356024506466986
+Precision: 0.33507917428053374
+Recall: 0.3271286799571434
+F1 Score: 0.299945403950775
+==================================================
+Training GaussianNB for window size: 200
+Accuracy: 0.33016562584849307
+Precision: 0.37522149929159826
+Recall: 0.3327537767206723
+F1 Score: 0.3145249457568287
+==================================================
+Training GaussianNB for window size: 300
+Accuracy: 0.335093419983753
+Precision: 0.3882908057509773
+Recall: 0.3403627762103839
+F1 Score: 0.32590835521594214
+==================================================
+Training GaussianNB for window size: 400
+Accuracy: 0.34719222462203025
+Precision: 0.39858741306818785
+Recall: 0.3383484285495345
+F1 Score: 0.32854084201467576
+==================================================
+Training GaussianNB for window size: 500
+Accuracy: 0.3367003367003367
+Precision: 0.3999539861664056
+Recall: 0.34009945004069064
+F1 Score: 0.3272048074843308
+==================================================
+Training KNeighborsClassifier for window size: 100
+Accuracy: 0.7257998638529612
+Precision: 0.7242067013725346
+Recall: 0.7185555696195433
+F1 Score: 0.71716518888342
+==================================================
+Training KNeighborsClassifier for window size: 200
+Accuracy: 0.7181645397773554
+Precision: 0.7184270747225522
+Recall: 0.715999858514118
+F1 Score: 0.7133891200687837
+==================================================
+Training KNeighborsClassifier for window size: 300
+Accuracy: 0.7136474411047928
+Precision: 0.7080458067771469
+Recall: 0.706348632892544
+F1 Score: 0.704675737900267
+==================================================
+Training KNeighborsClassifier for window size: 400
+Accuracy: 0.7073434125269978
+Precision: 0.7078440903265667
+Recall: 0.7025817515915537
+F1 Score: 0.7014501766811445
+==================================================
+Training KNeighborsClassifier for window size: 500
+Accuracy: 0.7117845117845117
+Precision: 0.715102049009135
+Recall: 0.7105185914175001
+F1 Score: 0.7090464082478481
+==================================================
+Training AdaBoostClassifier for window size: 100
+Accuracy: 0.34758339006126615
+Precision: 0.2945739504209159
+Recall: 0.32322111431643324
+F1 Score: 0.28609911501317814
+==================================================
+Training AdaBoostClassifier for window size: 200
+Accuracy: 0.2777626934564214
+Precision: 0.3052671684490424
+Recall: 0.26548488629873757
+F1 Score: 0.23322926860444743
+==================================================
+Training AdaBoostClassifier for window size: 300
+Accuracy: 0.28107229894394803
+Precision: 0.26338666808185673
+Recall: 0.26017435251616544
+F1 Score: 0.23051255630465028
+==================================================
+Training AdaBoostClassifier for window size: 400
+Accuracy: 0.23704103671706264
+Precision: 0.16552623155857746
+Recall: 0.22666942222129766
+F1 Score: 0.16789487599535236
+==================================================
+Training AdaBoostClassifier for window size: 500
+Accuracy: 0.26936026936026936
+Precision: 0.19498101555768474
+Recall: 0.25514781738189735
+F1 Score: 0.20399081669334446
+==================================================
+Training GradientBoostingClassifier for window size: 100
+Accuracy: 0.7417290673927842
+Precision: 0.7363616801713418
+Recall: 0.7314146116234803
+F1 Score: 0.7307494480542877
+==================================================
+Training GradientBoostingClassifier for window size: 200
+Accuracy: 0.7664947054032039
+Precision: 0.7657759243314246
+Recall: 0.7618773672454686
+F1 Score: 0.7617186902094669
+==================================================
+Training GradientBoostingClassifier for window size: 300
+Accuracy: 0.7802599512591389
+Precision: 0.7754324203024848
+Recall: 0.7710754199284697
+F1 Score: 0.7724640600824194
+==================================================
+Training GradientBoostingClassifier for window size: 400
+Accuracy: 0.7818574514038877
+Precision: 0.7786754946723472
+Recall: 0.773806939174359
+F1 Score: 0.7747413923718866
+==================================================
+Training GradientBoostingClassifier for window size: 500
+Accuracy: 0.8013468013468014
+Precision: 0.7984127445816974
+Recall: 0.7949903132738547
+F1 Score: 0.7955991866812389
+==================================================
+Training XGBClassifier for window size: 100
+Accuracy: 0.6887678692988427
+Precision: 0.6861091475560914
+Recall: 0.6775500136019608
+F1 Score: 0.6732300051666685
+==================================================
+Training XGBClassifier for window size: 200
+Accuracy: 0.7159923975020364
+Precision: 0.7184935362450948
+Recall: 0.7110557075352782
+F1 Score: 0.7084631644353869
+==================================================
+Training XGBClassifier for window size: 300
+Accuracy: 0.7335499593826158
+Precision: 0.7315562415150207
+Recall: 0.7242210968265692
+F1 Score: 0.7247711258733005
+==================================================
+Training XGBClassifier for window size: 400
+Accuracy: 0.740280777537797
+Precision: 0.7425207189322992
+Recall: 0.7311302511807669
+F1 Score: 0.7327455926707337
+==================================================
+Training XGBClassifier for window size: 500
+Accuracy: 0.7569023569023569
+Precision: 0.7561156777636734
+Recall: 0.7516760809873374
+F1 Score: 0.7508475363421392
+==================================================
+Training MLPClassifier for window size: 100
+Accuracy: 0.7253914227365554
+Precision: 0.7203229845020502
+Recall: 0.7167726400668906
+F1 Score: 0.7161892970386828
+==================================================
+Training MLPClassifier for window size: 200
+Accuracy: 0.7320119467825142
+Precision: 0.7316352105603557
+Recall: 0.7282649121747075
+F1 Score: 0.7283910168708003
+==================================================
+Training MLPClassifier for window size: 300
+Accuracy: 0.7404549147034931
+Precision: 0.7403426338313215
+Recall: 0.7339524593747571
+F1 Score: 0.7351961230241761
+==================================================
+Training MLPClassifier for window size: 400
+Accuracy: 0.7294816414686826
+Precision: 0.7262401519247679
+Recall: 0.7234027004898053
+F1 Score: 0.7218627787812824
+==================================================
+Training MLPClassifier for window size: 500
+Accuracy: 0.7494949494949495
+Precision: 0.7434514810729741
+Recall: 0.7447386603084059
+F1 Score: 0.7416176515010905
+==================================================
+Training MLPClassifier for window size: 100
+Accuracy: 0.7225323349217154
+Precision: 0.7205783740414644
+Recall: 0.7134481053321561
+F1 Score: 0.7130062300934281
+==================================================
+Training MLPClassifier for window size: 200
+Accuracy: 0.7241379310344828
+Precision: 0.7230290501171068
+Recall: 0.7177800179503839
+F1 Score: 0.7171437444030067
+==================================================
+Training MLPClassifier for window size: 300
+Accuracy: 0.735174654752234
+Precision: 0.7330945937123787
+Recall: 0.7295067702029209
+F1 Score: 0.7298072427352265
+==================================================
+Training MLPClassifier for window size: 400
+Accuracy: 0.7230021598272138
+Precision: 0.7214571437207993
+Recall: 0.7178113367413078
+F1 Score: 0.7174041967177516
+==================================================
+Training MLPClassifier for window size: 500
+Accuracy: 0.7548821548821549
+Precision: 0.751159873775539
+Recall: 0.7517941036390824
+F1 Score: 0.7498503971120871
+==================================================
+KFold Cross-Validation for window size 100 and Algorithm LogisticRegression:
+Average Accuracy: 0.28417036793844497
+Max Accuracy: 0.35566448801742917
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm LogisticRegression:
+Average Accuracy: 0.2815203640564981
+Max Accuracy: 0.3702497285559175
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm LogisticRegression:
+Average Accuracy: 0.2870836718115354
+Max Accuracy: 0.3793663688058489
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm LogisticRegression:
+Average Accuracy: 0.28961450002918687
+Max Accuracy: 0.37688984881209503
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm LogisticRegression:
+Average Accuracy: 0.2921529967023758
+Max Accuracy: 0.3835800807537012
+======================================================================
+KFold Cross-Validation for window size 100 and Algorithm DecisionTreeClassifier:
+Average Accuracy: 0.33936894947348817
+Max Accuracy: 0.3954248366013072
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm DecisionTreeClassifier:
+Average Accuracy: 0.3376762322322818
+Max Accuracy: 0.3997827267789245
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm DecisionTreeClassifier:
+Average Accuracy: 0.3323314378554021
+Max Accuracy: 0.3980503655564582
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm DecisionTreeClassifier:
+Average Accuracy: 0.3484999124394373
+Max Accuracy: 0.43783783783783786
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm DecisionTreeClassifier:
+Average Accuracy: 0.31856029138083025
+Max Accuracy: 0.39703903095558546
+======================================================================
+KFold Cross-Validation for window size 100 and Algorithm RandomForestClassifier:
+Average Accuracy: 0.38275102808162015
+Max Accuracy: 0.48366013071895425
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm RandomForestClassifier:
+Average Accuracy: 0.3914395884312036
+Max Accuracy: 0.510314875135722
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm RandomForestClassifier:
+Average Accuracy: 0.40243704305442723
+Max Accuracy: 0.5215272136474411
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm RandomForestClassifier:
+Average Accuracy: 0.38922479715136304
+Max Accuracy: 0.4956803455723542
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm RandomForestClassifier:
+Average Accuracy: 0.38145530794150617
+Max Accuracy: 0.5141318977119784
+======================================================================
+KFold Cross-Validation for window size 100 and Algorithm GaussianNB:
+Average Accuracy: 0.29525483908661626
+Max Accuracy: 0.36437908496732024
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm GaussianNB:
+Average Accuracy: 0.29450562380238743
+Max Accuracy: 0.34364820846905536
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm GaussianNB:
+Average Accuracy: 0.29228269699431353
+Max Accuracy: 0.3411860276198213
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm GaussianNB:
+Average Accuracy: 0.2950208394139279
+Max Accuracy: 0.3617710583153348
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm GaussianNB:
+Average Accuracy: 0.2914960112895561
+Max Accuracy: 0.3463611859838275
+======================================================================
+KFold Cross-Validation for window size 100 and Algorithm SVC:
+Average Accuracy: 0.3401871514858174
+Max Accuracy: 0.477124183006536
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm SVC:
+Average Accuracy: 0.3374484610108395
+Max Accuracy: 0.48805646036916395
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm SVC:
+Average Accuracy: 0.33785540211210396
+Max Accuracy: 0.5004061738424046
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm SVC:
+Average Accuracy: 0.33831801996380834
+Max Accuracy: 0.5075593952483801
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm SVC:
+Average Accuracy: 0.3377871817103387
+Max Accuracy: 0.5087483176312247
+======================================================================
+KFold Cross-Validation for window size 100 and Algorithm KNeighborsClassifier:
+Average Accuracy: 0.2946011998289348
+Max Accuracy: 0.4463507625272331
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm KNeighborsClassifier:
+Average Accuracy: 0.29905571076475573
+Max Accuracy: 0.4717698154180239
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm KNeighborsClassifier:
+Average Accuracy: 0.3022745735174655
+Max Accuracy: 0.4841592201462226
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm KNeighborsClassifier:
+Average Accuracy: 0.3049413344229759
+Max Accuracy: 0.4794816414686825
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm KNeighborsClassifier:
+Average Accuracy: 0.3017010516845454
+Max Accuracy: 0.4939434724091521
+======================================================================
+KFold Cross-Validation for window size 100 and Algorithm AdaBoostClassifier:
+Average Accuracy: 0.25734493361733474
+Max Accuracy: 0.33306100217864926
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm AdaBoostClassifier:
+Average Accuracy: 0.26164865198008214
+Max Accuracy: 0.329712112982075
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm AdaBoostClassifier:
+Average Accuracy: 0.22794476035743294
+Max Accuracy: 0.330625507717303
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm AdaBoostClassifier:
+Average Accuracy: 0.2234190648531901
+Max Accuracy: 0.36609071274298055
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm AdaBoostClassifier:
+Average Accuracy: 0.24757920283835114
+Max Accuracy: 0.33423180592991913
+======================================================================
+KFold Cross-Validation for window size 100 and Algorithm MLPClassifier:
+Average Accuracy: 0.3294024522111837
+Max Accuracy: 0.48366013071895425
+======================================================================
+KFold Cross-Validation for window size 200 and Algorithm MLPClassifier:
+Average Accuracy: 0.3339178301458927
+Max Accuracy: 0.46742671009771986
+======================================================================
+KFold Cross-Validation for window size 300 and Algorithm MLPClassifier:
+Average Accuracy: 0.3627944760357433
+Max Accuracy: 0.5385865150284321
+======================================================================
+KFold Cross-Validation for window size 400 and Algorithm MLPClassifier:
+Average Accuracy: 0.35722117798143715
+Max Accuracy: 0.5669546436285097
+======================================================================
+KFold Cross-Validation for window size 500 and Algorithm MLPClassifier:
+Average Accuracy: 0.3616287506393908
+Max Accuracy: 0.5356662180349933
+======================================================================
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 500 and Algorithm LogisticRegression:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'solver': 'saga', 'penalty': 'l2', 'max_iter': 5000, 'C': 10}
+Best Accuracy: 0.4691509887736303
+======================================================================
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 100 and Algorithm SVC:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'kernel': 'poly', 'gamma': 'auto', 'degree': 2, 'C': 100}
+Best Accuracy: 0.5589000000000001
+======================================================================
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 200 and Algorithm SVC:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'kernel': 'rbf', 'gamma': 'scale', 'degree': 3, 'C': 100}
+Best Accuracy: 0.6733
+======================================================================
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 300 and Algorithm SVC:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'kernel': 'rbf', 'gamma': 'auto', 'degree': 3, 'C': 100}
+Best Accuracy: 0.6958
+======================================================================
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 400 and Algorithm SVC:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'kernel': 'rbf', 'gamma': 'auto', 'degree': 2, 'C': 100}
+Best Accuracy: 0.7105982639703249
+======================================================================
+Fitting 5 folds for each of 10 candidates, totalling 50 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 500 and Algorithm SVC:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'kernel': 'poly', 'gamma': 'auto', 'degree': 4, 'C': 100}
+Best Accuracy: 0.6202848793414831
+======================================================================
+Fitting 5 folds for each of 27 candidates, totalling 135 fits
+GridSearchCV Hyperparameter Tuning for window size 100 and Algorithm RandomForestClassifier:
+Best Parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 150}
+Best Accuracy: 0.8181966338460352
+======================================================================
+Fitting 5 folds for each of 27 candidates, totalling 135 fits
+GridSearchCV Hyperparameter Tuning for window size 200 and Algorithm RandomForestClassifier:
+Best Parameters: {'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 150}
+Best Accuracy: 0.8323556431675228
+======================================================================
+Fitting 5 folds for each of 27 candidates, totalling 135 fits
+GridSearchCV Hyperparameter Tuning for window size 300 and Algorithm RandomForestClassifier:
+Best Parameters: {'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 150}
+Best Accuracy: 0.8363119415109667
+======================================================================
+Fitting 5 folds for each of 27 candidates, totalling 135 fits
+GridSearchCV Hyperparameter Tuning for window size 400 and Algorithm RandomForestClassifier:
+Best Parameters: {'max_depth': 20, 'min_samples_split': 2, 'n_estimators': 150}
+Best Accuracy: 0.8400137454157639
+======================================================================
+Fitting 5 folds for each of 27 candidates, totalling 135 fits
+GridSearchCV Hyperparameter Tuning for window size 500 and Algorithm RandomForestClassifier:
+Best Parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Best Accuracy: 0.8433456759871856
+======================================================================
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+GridSearchCV Hyperparameter Tuning for window size 100 and Algorithm MLPClassifier:
+Best Parameters: {'activation': 'tanh', 'hidden_layer_sizes': (150,), 'max_iter': 3000, 'solver': 'adam'}
+Best Accuracy: 0.7414831610732182
+======================================================================
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+GridSearchCV Hyperparameter Tuning for window size 200 and Algorithm MLPClassifier:
+Best Parameters: {'activation': 'logistic', 'hidden_layer_sizes': (150,), 'max_iter': 3000, 'solver': 'adam'}
+Best Accuracy: 0.7526328744766351
+======================================================================
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+GridSearchCV Hyperparameter Tuning for window size 300 and Algorithm MLPClassifier:
+Best Parameters: {'activation': 'logistic', 'hidden_layer_sizes': (150,), 'max_iter': 3000, 'solver': 'adam'}
+Best Accuracy: 0.7558895207148659
+======================================================================
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+GridSearchCV Hyperparameter Tuning for window size 400 and Algorithm MLPClassifier:
+Best Parameters: {'activation': 'tanh', 'hidden_layer_sizes': (150,), 'max_iter': 3000, 'solver': 'adam'}
+Best Accuracy: 0.7464666813688939
+======================================================================
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+GridSearchCV Hyperparameter Tuning for window size 500 and Algorithm MLPClassifier:
+Best Parameters: {'activation': 'logistic', 'hidden_layer_sizes': (150,), 'max_iter': 3000, 'solver': 'adam'}
+Best Accuracy: 0.7621208491019812
+======================================================================
+Fitting 5 folds for each of 20 candidates, totalling 100 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 100 and Algorithm DecisionTreeClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'min_samples_split': 5, 'min_samples_leaf': 1, 'max_depth': None, 'criterion': 'entropy'}
+Best Accuracy: 0.6517000000000001
+======================================================================
+Fitting 5 folds for each of 20 candidates, totalling 100 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 200 and Algorithm DecisionTreeClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 30, 'criterion': 'log_loss'}
+Best Accuracy: 0.6940999999999999
+======================================================================
+Fitting 5 folds for each of 20 candidates, totalling 100 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 300 and Algorithm DecisionTreeClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'min_samples_split': 5, 'min_samples_leaf': 1, 'max_depth': None, 'criterion': 'entropy'}
+Best Accuracy: 0.7259
+======================================================================
+Fitting 5 folds for each of 20 candidates, totalling 100 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 400 and Algorithm DecisionTreeClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'min_samples_split': 5, 'min_samples_leaf': 1, 'max_depth': 30, 'criterion': 'entropy'}
+Best Accuracy: 0.7307973741355147
+======================================================================
+Fitting 5 folds for each of 20 candidates, totalling 100 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 500 and Algorithm DecisionTreeClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': None, 'criterion': 'entropy'}
+Best Accuracy: 0.7288530407398331
+======================================================================
+Fitting 5 folds for each of 30 candidates, totalling 150 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 100 and Algorithm RandomForestClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'n_estimators': 150, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 30, 'criterion': 'gini', 'bootstrap': False}
+Best Accuracy: 0.7725000000000001
+======================================================================
+Fitting 5 folds for each of 30 candidates, totalling 150 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 200 and Algorithm RandomForestClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'n_estimators': 200, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_depth': 30, 'criterion': 'entropy', 'bootstrap': False}
+Best Accuracy: 0.8183
+======================================================================
+Fitting 5 folds for each of 30 candidates, totalling 150 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 300 and Algorithm RandomForestClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': None, 'criterion': 'log_loss', 'bootstrap': False}
+Best Accuracy: 0.8393
+======================================================================
+Fitting 5 folds for each of 30 candidates, totalling 150 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 400 and Algorithm RandomForestClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'n_estimators': 150, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_depth': 20, 'criterion': 'log_loss', 'bootstrap': False}
+Best Accuracy: 0.8524335103434837
+======================================================================
+Fitting 5 folds for each of 30 candidates, totalling 150 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 500 and Algorithm RandomForestClassifier:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': None, 'criterion': 'gini', 'bootstrap': False}
+Best Accuracy: 0.8521007922894714
+======================================================================
+Fitting 5 folds for each of 5 candidates, totalling 25 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 100 and Algorithm GaussianNB:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'var_smoothing': 1e-05}
+Best Accuracy: 0.33190000000000003
+======================================================================
+Fitting 5 folds for each of 5 candidates, totalling 25 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 200 and Algorithm GaussianNB:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'var_smoothing': 1e-09}
+Best Accuracy: 0.33270000000000005
+======================================================================
+Fitting 5 folds for each of 5 candidates, totalling 25 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 300 and Algorithm GaussianNB:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'var_smoothing': 1e-06}
+Best Accuracy: 0.332
+======================================================================
+Fitting 5 folds for each of 5 candidates, totalling 25 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 400 and Algorithm GaussianNB:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'var_smoothing': 1e-08}
+Best Accuracy: 0.3462236862217959
+======================================================================
+Fitting 5 folds for each of 5 candidates, totalling 25 fits
+RandomizedSearchCV Hyperparameter Tuning for window size 500 and Algorithm GaussianNB:
+Randomly sampled 10000 rows from the dataset.
+Best Parameters: {'var_smoothing': 1e-09}
+Best Accuracy: 0.3477900296768221
+======================================================================
+debugger eval code:4:9
